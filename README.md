@@ -2,8 +2,7 @@
 ## A collection of Google Foobar code challenge attempts
 
 
-Level 1:
-Solar Doomsday
+### Level 1: Solar Doomsday
 
 
 Who would've guessed? Doomsday devices take a LOT of power. Commander Lambda wants to supplement the LAMBCHOP's quantum antimatter reactor core with solar arrays, and you've been tasked with setting up the solar panels. 
