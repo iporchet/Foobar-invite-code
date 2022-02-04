@@ -1,5 +1,5 @@
 # Foobar-invite-code
-##A collection of Google Foobar code challenge attempts
+## A collection of Google Foobar code challenge attempts
 
 
 Level 1:
